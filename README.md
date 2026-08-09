@@ -201,7 +201,7 @@ me.say_hi()
 ### 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=krishnasadhwani08&theme=onestar&no-frame=true&no-bg=true&margin-w=6&row=1&column=7&title_color=22D3EE" width="100%" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=krishnasadhwani08&theme=nord&no-frame=true&no-bg=true&margin-w=6&row=1&column=7" width="100%" alt="GitHub Trophies" />
 </div>
 
 ---
